@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TodoApi</name>
+    </assembly>
+    <members>
+        <member name="M:TodoApi.Controllers.ValuesController.Get">
+            <summary>
+            The list of all details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TodoApi.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            This will provide details for the specific ID being passed
+            </summary>
+            <param name="id"> Required</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
